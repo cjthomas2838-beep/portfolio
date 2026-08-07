@@ -232,6 +232,15 @@ section h2 {
   transform: scale(1.04);
 }
 
+.project-video {
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow: 0 4px 25px rgba(0,0,0,.25);
+}
+
 /* PROJECT LINKS */
 
 .project-links {
@@ -266,5 +275,6 @@ section h2 {
         text-shadow: none;
     }
 }
+
 
 
